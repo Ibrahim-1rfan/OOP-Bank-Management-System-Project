@@ -64,8 +64,9 @@ Navigate to the project folder in your terminal and run the following command:
 
 ```bash
 g++ Displaytester.cpp -o BankApp.exe -L. -lraylib -lgdi32 -lwinmm
-
+```
 Once compiled run the app via the following command:
+```bash
 ./BankApp.exe
 
 
