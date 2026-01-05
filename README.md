@@ -63,7 +63,7 @@ This project serves as a practical implementation of core OOP pillars:
 Navigate to the project folder in your terminal and run the following command:
 
 ```bash
-g++ Displaytester.cpp -o BankApp.exe -L. -lraylib -lgdi32 -lwinmm
+g++ DisplayBankApp.cpp -o BankApp.exe -L. -lraylib -lgdi32 -lwinmm
 ```
 Once compiled run the app via the following command:
 ```bash
